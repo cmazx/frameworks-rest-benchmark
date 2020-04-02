@@ -1,0 +1,1303 @@
+{
+	"id": "b6f63b77-cce7-482f-95a4-df8fbf932e96",
+	"name": "1",
+	"timestamp": "2020-04-02T10:27:20.110Z",
+	"collection_id": "5e2a9ba9-909b-8507-6539-4b3c7875b67b",
+	"folder_id": "5b07137f-c8ae-4480-b726-6a5a92a54b8b",
+	"environment_id": "0",
+	"totalPass": 100,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "bed869c0-16f9-4d8b-3350-ee8fb81621c5",
+			"name": "create category",
+			"time": 95,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Your test name": true
+			},
+			"testPassFailCounts": {
+				"Your test name": {
+					"pass": 50,
+					"fail": 0
+				}
+			},
+			"times": [
+				77,
+				74,
+				74,
+				75,
+				76,
+				76,
+				78,
+				79,
+				86,
+				88,
+				78,
+				74,
+				82,
+				109,
+				113,
+				122,
+				79,
+				79,
+				84,
+				81,
+				75,
+				76,
+				81,
+				81,
+				80,
+				73,
+				76,
+				76,
+				184,
+				79,
+				73,
+				80,
+				72,
+				77,
+				87,
+				95,
+				78,
+				76,
+				74,
+				76,
+				73,
+				74,
+				77,
+				76,
+				79,
+				86,
+				76,
+				79,
+				71,
+				95
+			],
+			"allTests": [
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				}
+			]
+		},
+		{
+			"id": "593b6333-32e2-41b1-804f-92aa0ebd0c01",
+			"name": "get categories",
+			"time": 71,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				67,
+				76,
+				67,
+				75,
+				74,
+				69,
+				72,
+				96,
+				79,
+				81,
+				81,
+				74,
+				79,
+				144,
+				86,
+				76,
+				85,
+				86,
+				77,
+				100,
+				78,
+				89,
+				99,
+				91,
+				84,
+				75,
+				74,
+				70,
+				69,
+				68,
+				72,
+				67,
+				70,
+				69,
+				69,
+				69,
+				72,
+				70,
+				76,
+				74,
+				93,
+				68,
+				71,
+				70,
+				69,
+				69,
+				75,
+				71,
+				74,
+				71
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "15f1dbcf-84fb-48b0-9293-4701d97fbd00",
+			"name": "update category",
+			"time": 75,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				66,
+				71,
+				74,
+				70,
+				77,
+				71,
+				71,
+				69,
+				79,
+				73,
+				82,
+				71,
+				77,
+				103,
+				98,
+				81,
+				88,
+				105,
+				78,
+				94,
+				119,
+				91,
+				100,
+				77,
+				91,
+				71,
+				71,
+				71,
+				70,
+				65,
+				70,
+				66,
+				66,
+				69,
+				74,
+				75,
+				71,
+				68,
+				77,
+				74,
+				78,
+				69,
+				71,
+				72,
+				72,
+				70,
+				74,
+				68,
+				70,
+				75
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "c248f717-97ea-4c18-be0d-6786b7755e95",
+			"name": "create todo",
+			"time": 81,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Your test name": true
+			},
+			"testPassFailCounts": {
+				"Your test name": {
+					"pass": 50,
+					"fail": 0
+				}
+			},
+			"times": [
+				69,
+				78,
+				70,
+				76,
+				81,
+				85,
+				79,
+				78,
+				83,
+				97,
+				79,
+				81,
+				93,
+				98,
+				113,
+				83,
+				93,
+				92,
+				92,
+				83,
+				88,
+				81,
+				116,
+				105,
+				85,
+				86,
+				71,
+				72,
+				72,
+				79,
+				84,
+				76,
+				78,
+				76,
+				78,
+				84,
+				79,
+				76,
+				82,
+				79,
+				84,
+				90,
+				85,
+				73,
+				96,
+				77,
+				75,
+				84,
+				78,
+				81
+			],
+			"allTests": [
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				},
+				{
+					"Your test name": true
+				}
+			]
+		},
+		{
+			"id": "fd9fc8a6-b115-4e5a-b275-1c69bc047f41",
+			"name": "get todo",
+			"time": 72,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				71,
+				74,
+				77,
+				87,
+				73,
+				73,
+				70,
+				70,
+				76,
+				73,
+				73,
+				76,
+				74,
+				120,
+				93,
+				80,
+				75,
+				80,
+				82,
+				84,
+				79,
+				77,
+				166,
+				86,
+				84,
+				66,
+				73,
+				73,
+				76,
+				70,
+				69,
+				70,
+				77,
+				75,
+				75,
+				74,
+				66,
+				74,
+				71,
+				71,
+				71,
+				80,
+				71,
+				75,
+				70,
+				68,
+				81,
+				72,
+				84,
+				72
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "3300f369-d702-42e8-b26d-8e675a466230",
+			"name": "update todo",
+			"time": 93,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				92,
+				85,
+				114,
+				91,
+				98,
+				95,
+				101,
+				97,
+				102,
+				108,
+				101,
+				99,
+				102,
+				123,
+				99,
+				97,
+				106,
+				135,
+				96,
+				125,
+				105,
+				95,
+				103,
+				105,
+				92,
+				99,
+				95,
+				92,
+				97,
+				94,
+				92,
+				99,
+				96,
+				96,
+				97,
+				111,
+				104,
+				86,
+				95,
+				87,
+				98,
+				93,
+				95,
+				93,
+				90,
+				94,
+				97,
+				91,
+				125,
+				93
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "24761fbb-b6fd-4424-85a8-adaa6c4e3ed6",
+			"name": "delete todo",
+			"time": 92,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				91,
+				102,
+				124,
+				90,
+				97,
+				92,
+				97,
+				86,
+				100,
+				97,
+				102,
+				117,
+				93,
+				120,
+				96,
+				104,
+				102,
+				152,
+				105,
+				141,
+				103,
+				100,
+				103,
+				98,
+				105,
+				92,
+				93,
+				90,
+				97,
+				87,
+				97,
+				89,
+				89,
+				89,
+				89,
+				91,
+				85,
+				89,
+				90,
+				98,
+				89,
+				88,
+				96,
+				96,
+				104,
+				95,
+				92,
+				94,
+				113,
+				92
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "cef6fa82-8f3e-46c3-9c63-63a02a907825",
+			"name": "delete",
+			"time": 71,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				75,
+				73,
+				69,
+				73,
+				79,
+				73,
+				79,
+				94,
+				76,
+				70,
+				71,
+				73,
+				78,
+				93,
+				85,
+				85,
+				85,
+				93,
+				96,
+				82,
+				73,
+				154,
+				92,
+				75,
+				73,
+				69,
+				70,
+				87,
+				71,
+				75,
+				72,
+				69,
+				80,
+				74,
+				72,
+				75,
+				69,
+				79,
+				74,
+				75,
+				75,
+				76,
+				71,
+				67,
+				72,
+				70,
+				75,
+				75,
+				72,
+				71
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "49a722ed-cd61-4a0d-8555-b12e9999913a",
+			"name": "ping",
+			"time": 37,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				42,
+				44,
+				40,
+				39,
+				47,
+				39,
+				39,
+				53,
+				46,
+				40,
+				45,
+				44,
+				44,
+				68,
+				42,
+				45,
+				42,
+				58,
+				41,
+				48,
+				48,
+				41,
+				50,
+				50,
+				51,
+				38,
+				42,
+				40,
+				41,
+				40,
+				63,
+				38,
+				38,
+				39,
+				42,
+				39,
+				46,
+				39,
+				40,
+				38,
+				43,
+				39,
+				43,
+				38,
+				43,
+				38,
+				39,
+				40,
+				42,
+				37
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 50,
+	"totalTime": 35933,
+	"collection": {
+		"requests": [
+			{
+				"id": "bed869c0-16f9-4d8b-3350-ee8fb81621c5",
+				"method": "POST"
+			},
+			{
+				"id": "593b6333-32e2-41b1-804f-92aa0ebd0c01",
+				"method": "GET"
+			},
+			{
+				"id": "15f1dbcf-84fb-48b0-9293-4701d97fbd00",
+				"method": "PATCH"
+			},
+			{
+				"id": "c248f717-97ea-4c18-be0d-6786b7755e95",
+				"method": "POST"
+			},
+			{
+				"id": "fd9fc8a6-b115-4e5a-b275-1c69bc047f41",
+				"method": "GET"
+			},
+			{
+				"id": "3300f369-d702-42e8-b26d-8e675a466230",
+				"method": "PATCH"
+			},
+			{
+				"id": "24761fbb-b6fd-4424-85a8-adaa6c4e3ed6",
+				"method": "DELETE"
+			},
+			{
+				"id": "cef6fa82-8f3e-46c3-9c63-63a02a907825",
+				"method": "DELETE"
+			},
+			{
+				"id": "49a722ed-cd61-4a0d-8555-b12e9999913a",
+				"method": "GET"
+			}
+		]
+	}
+}
