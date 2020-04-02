@@ -17,9 +17,9 @@ foreach ($s['results'] as $key => $result) {
 
 foreach ($data as $name => $values) {
     $d = (round(($data[$name]['symfony'] * 100) / $data[$name]['yii2']) - 100);
-    $l = (round(($data[$name]['laravel'] * 100) / $data[$name]['yii2']) - 100) ;
+    $l = (round(($data[$name]['laravel'] * 100) / $data[$name]['yii2']) - 100);
     $data[$name]['diff'] = ($d > 0 ? ('+' . $d) : $d) . ' %';
-    $data[$name]['diffLaravel'] =($l > 0 ? ('+' . $l) : $l)  . ' %';
+    $data[$name]['diffLaravel'] = ($l > 0 ? ('+' . $l) : $l) . ' %';
 }
 
 $total = [];
@@ -37,9 +37,12 @@ foreach ($data as $name => $values) {
     echo str_pad($name, 25, ' ', STR_PAD_RIGHT) . 'Symfony:' . $values['diff'] . "\n";
     echo str_pad('', 25, ' ', STR_PAD_RIGHT) . 'Laravel:' . $values['diffLaravel'] . "\n\n";
 }
+
+$totalS = (round((100 * $total['symfony']) / $total['yii2']) - 100);
+$totalL = (round((100 * $total['laravel']) / $total['yii2']) - 100);
 echo str_pad('Avg symfony:', 25, ' ',
-        STR_PAD_RIGHT) . round((100 * $total['symfony']) / $total['yii2']) . "%\n";
+        STR_PAD_RIGHT) . ($totalS > 0 ? ('+' . $totalS) : $totalS) . "%\n";
 echo str_pad('Avg laravel:', 25, ' ',
-        STR_PAD_RIGHT) . round((100 * $total['laravel']) / $total['yii2']) . "%\n";
+        STR_PAD_RIGHT) . ($totalL > 0 ? ('+' . $totalL) : $totalL) . "%\n";
 
 
